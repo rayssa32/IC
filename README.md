@@ -68,15 +68,12 @@ geostats_mode_a/
 - `scikit-posthocs`
 - `matplotlib`
 
-### Instalação rápida (via pip)
-```bash
-pip install numpy pandas rasterio geopandas shapely affine scipy statsmodels scikit-posthocs matplotlib
-````
+## 💾 Instalação
 
-### Instalação recomendada (via conda)
+Instale todas as dependências globalmente para o seu usuário:
 
 ```bash
-conda install -c conda-forge python=3.10 rasterio geopandas shapely affine scipy statsmodels scikit-posthocs matplotlib pandas numpy
+pip install --user numpy pandas rasterio geopandas shapely affine scipy statsmodels scikit-posthocs matplotlib
 ```
 
 ---
