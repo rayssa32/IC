@@ -289,6 +289,6 @@ p = 0.034   η² = 0.62   ★
 ## Script Autor/coautor
 
 **Rayssa de Oliveira Dias e Luiz Felipe Sá**
-Projeto: *Serviços Ecossistêmicos de Estoque de Carbono da Vegetação sob Diferentes Intensidades de Uso Antrópico*  
+ 
 
 
